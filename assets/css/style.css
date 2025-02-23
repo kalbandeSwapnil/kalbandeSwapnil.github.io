@@ -1084,7 +1084,7 @@ main {
 
 .blog-banner-box {
   width: 100%;
-  height: 200px;
+  height: 150px;
   border-radius: 12px;
   overflow: hidden;
 }
@@ -1846,7 +1846,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * BLOG
    */
 
-  .blog-banner-box { height: 230px; }
+  .blog-banner-box { height: 150px; }
 
   .chip {
    
